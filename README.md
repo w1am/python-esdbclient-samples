@@ -6,6 +6,8 @@ This documentation provides sample code for [esdbclient](https://github.com/pyev
 
 I've prefixed certain comments with `#!` to distinguish between standard code comments and comments related to Linear issues.
 
+Additionally, I've added region and endregion markers for VuePress.
+
 ### Prerequisites
 
 1. [Poetry](https://python-poetry.org/docs/)
