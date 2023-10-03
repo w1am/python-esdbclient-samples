@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-esdbclient-samples"
+version = "0.1.0"
+description = ""
+authors = ["William Chong <william-chong@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+esdbclient = "^0.16"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
